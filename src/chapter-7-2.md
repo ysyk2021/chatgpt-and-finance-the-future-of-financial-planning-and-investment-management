@@ -1,5 +1,4 @@
-The Future of Chatbots and AI in Finance
-===============================================================================================================
+
 
 The future of chatbots and AI in finance is exciting, with new technologies and applications emerging all the time. In this chapter, we will explore some of the potential future trends and directions for chatbots and AI in finance.
 

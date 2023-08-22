@@ -1,5 +1,4 @@
-Training ChatGPT and Managing Conversations
-============================================================================================
+
 
 In this chapter, we will explore the implementation of ChatGPT in finance, specifically the training of ChatGPT and the management of conversations.
 

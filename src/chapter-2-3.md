@@ -1,5 +1,4 @@
-Types of Financial Planning and Investment Management Techniques Used Today
-==================================================================================================================================================
+
 
 In this chapter, we will explore the different types of financial planning and investment management techniques used today.
 

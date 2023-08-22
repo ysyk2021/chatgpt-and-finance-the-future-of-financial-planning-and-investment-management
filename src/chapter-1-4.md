@@ -1,5 +1,4 @@
-Objectives of the book
-====================================
+
 
 The objective of this book is to explore the potential of ChatGPT and AI in finance, specifically in the areas of financial planning and investment management.
 

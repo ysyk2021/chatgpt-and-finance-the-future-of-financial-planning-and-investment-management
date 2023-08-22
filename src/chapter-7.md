@@ -1,5 +1,4 @@
-Chapter 6: Future Trends and Directions in Chatbots and AI in Finance
-=====================================================================
+
 
 The future of chatbots and AI in finance is constantly evolving, with new trends and directions emerging all the time. In this chapter, we will explore the emerging trends in chatbots and AI in finance, consider the future of these technologies in finance, and examine the opportunities and challenges associated with their use.
 

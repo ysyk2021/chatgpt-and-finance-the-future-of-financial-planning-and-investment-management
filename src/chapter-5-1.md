@@ -1,5 +1,4 @@
-How ChatGPT Works in Financial Planning and Investment Management
-===============================================================================================================================================
+
 
 ChatGPT is a language-based AI system that has the potential to revolutionize financial planning and investment management. In this chapter, we will explore how ChatGPT works in financial planning and investment management.
 

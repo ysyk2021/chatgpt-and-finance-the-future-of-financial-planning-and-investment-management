@@ -1,5 +1,4 @@
-Types of Chatbots Used in Finance
-========================================================================
+
 
 In this chapter, we will explore the different types of chatbots used in finance.
 

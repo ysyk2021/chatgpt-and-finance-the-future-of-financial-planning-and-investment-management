@@ -1,5 +1,4 @@
-The History and Evolution of Financial Planning and Investment Management
-================================================================================================================================================
+
 
 In this chapter, we will explore the history and evolution of financial planning and investment management.
 

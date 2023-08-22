@@ -1,5 +1,4 @@
-Background information on financial planning and investment management with ChatGPT
-=================================================================================================
+
 
 Chatbots have been increasingly used in various industries to improve customer service, automate routine tasks, and provide personalized recommendations. In the finance industry, chatbots have the potential to transform financial planning and investment management.
 

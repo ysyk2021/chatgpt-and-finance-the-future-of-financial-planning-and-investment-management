@@ -1,5 +1,4 @@
-Emerging Trends in Chatbots and AI in Finance
-====================================================================================================================
+
 
 The use of chatbots and AI in finance is constantly evolving, with new trends and directions emerging all the time. In this chapter, we will explore some of the emerging trends and directions in chatbots and AI in finance.
 

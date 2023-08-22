@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will introduce ChatGPT and explore its features, advantages in financial planning and investment management, and some case studies where it has been used in finance.
 

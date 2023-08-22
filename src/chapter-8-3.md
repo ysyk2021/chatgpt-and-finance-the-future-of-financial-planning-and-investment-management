@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the potential of ChatGPT and AI in finance, as well as the limitations and challenges facing financial planning and investment management.
 

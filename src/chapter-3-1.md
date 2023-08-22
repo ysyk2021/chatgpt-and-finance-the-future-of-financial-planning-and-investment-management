@@ -1,5 +1,4 @@
-An Overview of Chatbots and AI in Finance
-================================================================================
+
 
 In this chapter, we will provide an overview of chatbots and AI in finance.
 

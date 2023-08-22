@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the potential impact of ChatGPT and other AI technologies on financial planning and investment management. We have discussed the following key points:
 
