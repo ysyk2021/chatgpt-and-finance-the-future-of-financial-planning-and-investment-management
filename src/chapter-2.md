@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the basics of financial planning and investment management, including their definitions, history and evolution, current techniques used today, as well as limitations and challenges.
 
 What is Financial Planning and Investment Management?

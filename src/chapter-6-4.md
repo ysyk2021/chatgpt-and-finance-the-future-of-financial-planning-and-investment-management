@@ -1,5 +1,4 @@
 
-
 The implementation of ChatGPT in finance requires careful evaluation of its performance and effectiveness to ensure that the system is meeting the needs of both financial institutions and their customers. In this chapter, we will explore how to evaluate ChatGPT's performance and effectiveness in finance.
 
 Key Performance Indicators (KPIs)

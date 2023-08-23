@@ -1,5 +1,4 @@
 
-
 The objective of this book is to explore the potential of ChatGPT and AI in finance, specifically in the areas of financial planning and investment management.
 
 We will examine the current state of financial planning and investment management, including the different techniques used today and the limitations and challenges facing these industries. We will also explore the history and evolution of financial planning and investment management, tracing their origins back to ancient civilizations and examining how they have developed into modern professions.

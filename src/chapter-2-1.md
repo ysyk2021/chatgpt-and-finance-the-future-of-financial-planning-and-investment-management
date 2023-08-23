@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the basics of financial planning and investment management.
 
 Financial Planning

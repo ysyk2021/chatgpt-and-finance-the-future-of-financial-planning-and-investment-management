@@ -1,5 +1,4 @@
 
-
 ChatGPT is a language-based AI system that has the potential to transform financial planning and investment management. In this chapter, we will explore case studies that demonstrate the effectiveness of ChatGPT in finance.
 
 Case Study 1: Bank of America's Erica

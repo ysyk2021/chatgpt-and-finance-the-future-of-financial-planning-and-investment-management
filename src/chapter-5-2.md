@@ -1,5 +1,4 @@
 
-
 Personalization is a key aspect of ChatGPT's ability to improve financial planning and investment management. In this chapter, we will explore the personalization techniques used in ChatGPT for finance.
 
 Natural Language Processing

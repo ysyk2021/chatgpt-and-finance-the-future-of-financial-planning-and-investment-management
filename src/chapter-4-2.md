@@ -1,5 +1,4 @@
 
-
 ChatGPT is a state-of-the-art technology that uses artificial intelligence (AI) to provide personalized financial advice, automate routine tasks, and improve customer engagement in financial planning and investment management. In this chapter, we will explore the features of ChatGPT.
 
 Natural Language Processing (NLP)

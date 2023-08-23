@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the potential impact of ChatGPT and other AI technologies on financial planning and investment management. We have discussed the following key points:
 
 * The potential of ChatGPT and AI to transform financial planning and investment management
