@@ -1,5 +1,4 @@
-Chapter: What is Financial Planning and Investment Management?
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Financial planning and investment management are two critical aspects of personal finance that are essential for achieving financial goals and securing financial stability. In this chapter, we delve into the definitions and key components of financial planning and investment management.
 

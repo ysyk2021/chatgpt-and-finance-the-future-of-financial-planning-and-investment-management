@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Financial Planning and Investment Management
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Financial planning and investment management are complex domains that come with their own set of limitations and challenges. This chapter explores some of the key obstacles and considerations that financial professionals face when utilizing ChatGPT in these fields.
 

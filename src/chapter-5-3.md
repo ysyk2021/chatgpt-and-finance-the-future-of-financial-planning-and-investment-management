@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Financial Planning and Investment Management
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Data is a critical component in the world of financial planning and investment management. It provides valuable insights and information that can guide decision-making and improve outcomes. In this chapter, we explore how ChatGPT leverages data to enhance financial planning and investment management processes.
 

@@ -1,5 +1,4 @@
-Chapter: Objectives of the Book
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The book "ChatGPT and Finance: The Future of Financial Planning and Investment Management" aims to achieve several key objectives. In this chapter, we outline the main goals and objectives of the book.
 

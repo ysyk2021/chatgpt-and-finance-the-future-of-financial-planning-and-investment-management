@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT and managing conversations are crucial aspects of effectively utilizing the AI language model in the context of finance. This chapter delves into the training process of ChatGPT and explores strategies for managing conversations to ensure accurate and meaningful interactions.
 

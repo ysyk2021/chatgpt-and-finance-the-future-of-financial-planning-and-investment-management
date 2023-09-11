@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Financial Planning and Investment Management
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how ChatGPT works in the realm of financial planning and investment management. We examine its capabilities, limitations, and potential applications.
 

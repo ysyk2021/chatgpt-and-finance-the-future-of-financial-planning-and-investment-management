@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Finance
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Planning and designing ChatGPT for finance requires careful consideration of various factors to ensure its effectiveness, accuracy, and adherence to industry standards. This chapter explores the key steps involved in planning and designing ChatGPT specifically for finance-related applications.
 

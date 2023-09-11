@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT in Finance
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the integration of artificial intelligence (AI) and natural language processing (NLP) technologies like ChatGPT has had a significant impact on the field of finance. In this chapter, we explore some case studies that highlight the applications of ChatGPT in various areas of finance.
 

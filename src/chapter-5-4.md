@@ -1,5 +1,4 @@
-Chapter: Case Studies Demonstrating ChatGPT's Effectiveness in Improving Financial Planning and Investment Management
-=====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present case studies that showcase the effectiveness of ChatGPT in enhancing financial planning and investment management. These real-world examples highlight how ChatGPT's capabilities have been leveraged to improve decision-making, provide personalized advice, and streamline financial processes.
 

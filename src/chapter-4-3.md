@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Financial Planning and Investment Management
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers numerous advantages when it comes to financial planning and investment management. This chapter explores the key benefits of utilizing ChatGPT in these domains and highlights how it can revolutionize the way financial professionals interact with clients and manage investments.
 

@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness in Finance
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT is crucial to understand its capabilities and limitations in the domain of finance. This chapter explores various metrics and considerations for assessing ChatGPT's performance and effectiveness, enabling financial professionals to make informed decisions about its utilization.
 

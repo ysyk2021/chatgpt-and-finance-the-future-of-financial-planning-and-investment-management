@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Finance
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Personalization is a key aspect of financial planning and investment management. Meeting the unique needs and preferences of each individual client is crucial for delivering effective financial advice. In this chapter, we explore the personalization techniques used in ChatGPT for finance, enabling tailored recommendations and personalized experiences for users.
 

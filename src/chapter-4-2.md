@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by the GPT-3.5 model, offers a range of features that make it a versatile tool for financial planning and investment management. This chapter explores the key features of ChatGPT and how they can be utilized to enhance financial advisory services.
 

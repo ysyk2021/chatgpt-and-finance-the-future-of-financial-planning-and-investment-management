@@ -1,5 +1,4 @@
-Chapter: Integration with Existing Financial Planning and Investment Management Systems
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of financial planning and investment management, the integration of artificial intelligence (AI) technologies, specifically ChatGPT, is revolutionizing the way financial professionals operate. This chapter explores how ChatGPT integrates with existing financial planning and investment management systems and discusses the benefits and challenges associated with this integration.
 

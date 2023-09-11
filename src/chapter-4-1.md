@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an artificial intelligence (AI) language model that uses deep learning algorithms to generate human-like responses in natural language. Developed by OpenAI, ChatGPT is trained on massive amounts of text data, enabling it to understand and respond to a wide range of topics and questions.
 
